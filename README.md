@@ -1,4 +1,4 @@
-![Screenshot 2024-09-10 153338](https://github.com/user-attachments/assets/ab4ded65-dde7-4a26-bbf4-728cbd5dee41)# POLICY EVALUATION
+# POLICY EVALUATION
 
 ## AIM
 To develop a Python program to evaluate the given policy by maximizing its cumulative reward while dealing with slippery terrain.
