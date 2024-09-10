@@ -183,19 +183,19 @@ else:
 ```
 
 ## OUTPUT:
-
+### Policy - 1:
 ![Screenshot 2024-09-10 153253](https://github.com/user-attachments/assets/87fa6f20-c6ab-4b0b-aa0a-8ac67a8d2544)
 
 ![Screenshot 2024-09-10 153309](https://github.com/user-attachments/assets/297a5ba2-d889-4b3f-abd3-17d7b7d01809)
 
+![Screenshot 2024-09-10 153715](https://github.com/user-attachments/assets/81a8a4c4-4f40-42a2-a04b-6b6db201eab2)
+### Policy - 2:
 ![Screenshot 2024-09-10 153328](https://github.com/user-attachments/assets/20600d3e-607c-4e46-bd0b-cbc276bb91bf)
 
 ![Screenshot 2024-09-10 153338](https://github.com/user-attachments/assets/df23415a-29f5-4f23-aa51-5af0db9252be)
 
-![Screenshot 2024-09-10 153715](https://github.com/user-attachments/assets/81a8a4c4-4f40-42a2-a04b-6b6db201eab2)
-
 ![Screenshot 2024-09-10 153747](https://github.com/user-attachments/assets/3f178093-0045-441c-9f8b-df65d83577ea)
-
+### Comparison:
 ![Screenshot 2024-09-10 153811](https://github.com/user-attachments/assets/e4d15422-c365-4adb-8e18-43aae06c21cc)
 
 ## RESULT:
